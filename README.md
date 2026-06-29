@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aakash Pradeep Patil</h1>
+<h1 align="center">Hi 👋, I'm Aakash Patil</h1>
 
 <h3 align="center">
 🚀 Full Stack Java Developer | Computer Engineering Student<br>
@@ -48,42 +48,97 @@ R.C. Patel Institute of Technology, Shirpur | DSA Enthusiast
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Project Journey
 
-## 🌾 AgroConnect – AI Powered Agricultural Marketplace
+### 🌾 AgroConnect – AI Powered Agricultural Marketplace *(Flagship Project)*
 
-**Tech Stack:** Spring Boot, React.js, PostgreSQL, Apache Kafka, Docker, Keycloak, Google Gemini AI, Spring Cloud
+**Tech Stack:** Spring Boot • React.js • PostgreSQL • Apache Kafka • Docker • Keycloak • Google Gemini AI • Spring Cloud
 
-- 🌱 AI-powered marketplace connecting farmers and agricultural vendors.
-- 🔐 Implemented JWT & Keycloak-based authentication.
-- ⚡ Built Microservices architecture with Apache Kafka.
-- 🤖 Integrated Google Gemini AI for crop recommendations.
-- 🐳 Containerized services using Docker.
-
----
-
-## 🎯 SkillBridge – AI Based Skill Development Platform
-
-**Tech Stack:** React.js, Spring Boot, MySQL, AI APIs
-
-- 📄 AI-powered Resume Analyzer.
-- 🎓 Personalized Skill Recommendations.
-- 💼 Career Guidance & Learning Path Suggestions.
-- 🔗 REST API based Backend with Spring Boot.
+* 🌱 Built an AI-powered marketplace connecting farmers with agricultural vendors.
+* 🔐 Implemented secure authentication using Keycloak & JWT.
+* ⚡ Developed Microservices with Spring Cloud and Apache Kafka.
+* 🤖 Integrated Google Gemini AI for crop, fertilizer and pesticide recommendations.
+* 🐳 Containerized services using Docker for deployment.
 
 ---
 
-## 🎓 Alumni Network Platform
+### 🎯 SkillBridge – AI Based Skill Development Platform
 
-**Tech Stack:** Spring Boot, JWT, HTML, CSS, JavaScript, MySQL
+**Tech Stack:** React.js • Spring Boot • MySQL • AI APIs
 
-- 👥 College Alumni Engagement Platform.
-- 🔐 Role-Based Access Control.
-- 📰 Job, Internship & Announcement Posting.
-- 🛠️ Admin Dashboard for Platform Management.
+* 📄 AI-powered Resume Analyzer.
+* 🎓 Personalized Skill Recommendation Engine.
+* 💼 Career Guidance & Learning Path Suggestions.
+* 🔗 Designed REST APIs using Spring Boot.
 
 ---
 
+### 🎓 Alumni Network Platform
+
+**Tech Stack:** Spring Boot • JWT • HTML • CSS • JavaScript • MySQL
+
+* 👥 Developed a networking platform for students and alumni.
+* 🔐 Implemented Role-Based Authentication.
+* 📢 Added Job, Internship & Announcement modules.
+* ⚙️ Created Admin Dashboard for complete platform management.
+
+---
+
+### 🌿 KisanMate – Smart Farming Platform
+
+**Tech Stack:** Java • Spring MVC • SQL
+
+* 🚜 Developing a farmer-centric platform for agricultural tools, seeds and fertilizers.
+* 🌦️ Integrated weather information to support farming decisions.
+* 💰 Added government subsidy awareness and utilization features.
+* 📊 Designed an easy-to-use dashboard for farmers.
+* ⚙️ Built backend modules using Spring MVC for modularity and scalability.
+
+---
+
+### 🛍️ OfferBazaar – Local Vendor Offers Platform
+
+**Tech Stack:** Advanced Java • Servlet • SQL
+
+* 🏪 Built a platform aggregating offers from local vendors.
+* 📈 Designed dashboards to visualize customer engagement.
+* 📊 Improved vendor visibility by approximately **40%** through data-driven insights.
+* 💾 Developed backend using Java Servlets and SQL.
+
+---
+
+### 🏦 Apna Bank – Banking Management System
+
+**Tech Stack:** Advanced Java • Servlet • SQL
+
+* 💳 Developed a banking management system.
+* 👤 Managed customer, account and transaction records.
+* 💾 Used MySQL for persistent storage.
+* 🔒 Implemented CRUD operations for banking services.
+
+---
+
+# 💼 Experience
+
+### 💻 Full Stack Developer Intern — CodexConquer
+
+**Feb 2026 – May 2026**
+
+* Developed frontend and backend modules for scalable web applications.
+* Designed and implemented REST APIs.
+* Integrated relational databases with backend services.
+* Collaborated with the development team using Git & GitHub.
+* Contributed to scalable software architecture and feature development.
+
+---
+
+### ☕ Java Developer Training — R3 Systems India Pvt. Ltd., Nashik
+
+* Developed enterprise Java web applications using Spring MVC and Hibernate.
+* Built complete CRUD applications integrated with MySQL.
+* Learned MVC architecture, Hibernate ORM and enterprise application development.
+* Strengthened backend development and database design skills.
+  
 # 📊 GitHub Stats
 
 <p align="center">
