@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Aakash Pradeep Patil</h1>
 
 <h3 align="center">
@@ -155,4 +154,4 @@ R.C. Patel Institute of Technology, Shirpur | DSA Enthusiast
 ⭐ Thanks for visiting my profile! ⭐<br>
 💙 Keep Learning • Keep Building • Keep Growing 🚀
 </h3>
-```
+
