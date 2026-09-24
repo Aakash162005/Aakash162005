@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 28" width="220" height="28">
+<defs>
+  <style>
+    @media (prefers-reduced-motion: reduce) {
+      .dot { animation: none !important; opacity: 1; }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; r: 5; }
+      50% { opacity: 0.4; r: 7; }
+    }
+    .dot { animation: pulse 2s ease-in-out infinite; }
+  </style>
+</defs>
+<rect width="220" height="28" rx="14" fill="#10B981"/>
+<circle class="dot" cx="18" cy="14" r="5" fill="#FFFFFF"/>
+<text x="32" y="18" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#FFFFFF">Open to Opportunities</text>
+</svg>

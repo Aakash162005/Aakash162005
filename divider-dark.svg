@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 4" width="800" height="4">
+<defs>
+  <style>
+    @media (prefers-reduced-motion: reduce) {
+      .pulse { display: none; }
+    }
+  </style>
+  <linearGradient id="dline" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#0A101F" stop-opacity="0"/>
+    <stop offset="0.5" stop-color="#22D3EE" stop-opacity="0.5"/>
+    <stop offset="1" stop-color="#0A101F" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="dpulse" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#A78BFA" stop-opacity="0"/>
+    <stop offset="0.4" stop-color="#A78BFA" stop-opacity="0.9"/>
+    <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<rect x="0" y="1" width="800" height="2" rx="1" fill="url(#dline)"/>
+<rect class="pulse" x="0" y="0" width="120" height="4" rx="2" fill="url(#dpulse)">
+  <animateTransform attributeName="transform" type="translate" values="-120,0; 800,0" dur="3s" repeatCount="indefinite"/>
+</rect>
+</svg>

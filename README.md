@@ -2,33 +2,61 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img alt="Aakash Patil" src="./light.svg" width="100%">
+  <img alt="Aakash Patil — Full Stack Java Developer" src="./light.svg" width="100%">
 </picture>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React.js;Microservices+%26+Cloud-Native;1000%2B+CodeChef+Problems+Solved" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Full+Stack+Java+Developer;Spring+Boot+%2B+React.js;Microservices+%26+Cloud-Native;1000%2B+CodeChef+Problems+Solved" alt="Typing intro" />
 
-B.Tech Computer Engineering · R.C. Patel Institute of Technology, Shirpur · 📍 Maharashtra, India
+**B.Tech Computer Engineering · R.C. Patel Institute of Technology, Shirpur · 📍 Maharashtra, India**
 
 </div>
 
-## About
+<!-- ===== ABOUT ===== -->
 
-- Building scalable full stack applications with **Spring Boot + React.js**
-- Focused on **backend development, microservices and cloud-native systems**
-- Currently learning **Spring Cloud, Docker, Apache Kafka, Keycloak and AI integration**
+## ⚡ About
+
+- Building scalable full-stack applications with **Spring Boot + React.js**
+- Focused on **backend development, microservices, and cloud-native architecture**
+- Currently learning **Spring Cloud, Docker, Apache Kafka, Keycloak, and AI integration**
 - **1000+** problems solved and a **100-day streak** on CodeChef
 
-## Tech Stack
+<!-- ===== DIVIDER ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./divider-light.svg">
+  <img alt="" src="./divider-light.svg" width="100%">
+</picture>
+
+<!-- ===== TECH STACK ===== -->
+
+## 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,spring,hibernate,postgres,mysql,mongodb,docker,git,github,linux&perline=8" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,spring,hibernate,postgres,mysql,mongodb,docker,kafka,git,github,linux,postman&perline=9" alt="Tech stack" />
 
 </div>
 
-## GitHub Stats
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./learning-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./learning-light.svg">
+  <img alt="Now learning: Spring Cloud, Docker, Kafka, Keycloak, AI Integration" src="./learning-light.svg" width="100%">
+</picture>
+
+<!-- ===== DIVIDER ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./divider-light.svg">
+  <img alt="" src="./divider-light.svg" width="100%">
+</picture>
+
+<!-- ===== GITHUB STATS ===== -->
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -48,44 +76,75 @@ B.Tech Computer Engineering · R.C. Patel Institute of Technology, Shirpur · �
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakash162005&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF" alt="Top languages" />
 </picture>
 
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Aakash162005&bg_color=0A101F&color=94A3B8&line=22D3EE&point=A78BFA&area_color=22D3EE&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aakash162005&bg_color=FFFFFF&color=475569&line=0891B2&point=7C3AED&area_color=0891B2&area=true&hide_border=true" alt="Activity graph" />
+</picture>
+
 </div>
 
-## Contribution Snake
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aakash162005/Aakash162005/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aakash162005/Aakash162005/output/snake-light.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Aakash162005/Aakash162005/output/snake-light.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Aakash162005/Aakash162005/output/snake-light.svg" width="100%" />
 </picture>
 
 </div>
 
-## Projects
+<!-- ===== DIVIDER ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./divider-light.svg">
+  <img alt="" src="./divider-light.svg" width="100%">
+</picture>
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🌾 **AgroConnect** *(flagship)* | AI-powered marketplace connecting farmers and agri vendors; Gemini-based crop, fertilizer and pesticide recommendations; Keycloak + JWT auth | Spring Boot · React · PostgreSQL · Kafka · Docker · Keycloak · Spring Cloud · Gemini |
-| 🎯 **SkillBridge** | AI resume analyzer, personalized skill recommendations, career and learning paths | React · Spring Boot · MySQL · AI APIs |
-| 🎓 **Alumni Network Platform** | Student-alumni networking with role-based auth, jobs/internships/announcements and an admin dashboard | Spring Boot · JWT · MySQL · JS |
-| 🌿 **KisanMate** | Farmer-centric platform for tools, seeds, fertilizers, weather info and subsidy awareness | Java · Spring MVC · SQL |
-| 🛍️ **OfferBazaar** | Local vendor offers aggregator with engagement dashboards; ~40% better vendor visibility | Servlets · SQL |
-| 🏦 **Apna Bank** | Banking system managing customers, accounts and transactions with full CRUD | Servlets · MySQL |
+<!-- ===== PROJECTS ===== -->
 
-## Experience
+## 🚀 Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🌾 **AgroConnect** *(flagship)* | AI-powered agri marketplace — Gemini-based crop & fertilizer recommendations, Keycloak + JWT auth, event-driven architecture | Spring Boot · React · PostgreSQL · Kafka · Docker · Keycloak · Spring Cloud · Gemini AI |
+| 🎯 **SkillBridge** | AI resume analyzer with personalized skill recommendations and career paths | React · Spring Boot · MySQL · AI APIs |
+| 🎓 **Alumni Network** | Student-alumni platform with role-based auth, jobs board, and admin dashboard | Spring Boot · JWT · MySQL · JS |
+| 🌿 **KisanMate** | Farmer platform for tools, seeds, weather info, and subsidy awareness | Java · Spring MVC · SQL |
+| 🛍️ **OfferBazaar** | Vendor offers aggregator with engagement dashboards; ~40% improved vendor visibility | Servlets · SQL |
+| 🏦 **Apna Bank** | Banking system with full CRUD for customers, accounts, and transactions | Servlets · MySQL |
+
+<!-- ===== EXPERIENCE ===== -->
+
+## 💼 Experience
 
 **Full Stack Developer Intern — CodexConquer** · *Feb 2026 – May 2026*
-Built frontend and backend modules, designed REST APIs, integrated relational databases and collaborated through Git/GitHub.
+Built frontend and backend modules, designed REST APIs, integrated relational databases, and collaborated through Git/GitHub.
 
 **Java Developer Training — R3 Systems India Pvt. Ltd., Nashik**
-Enterprise Java with Spring MVC, Hibernate and MySQL; MVC architecture and database design.
+Enterprise Java with Spring MVC, Hibernate, and MySQL; MVC architecture and database design.
 
-## Certifications
+<!-- ===== CERTIFICATIONS ===== -->
 
-☕ Java Programming — CodeChef &nbsp;·&nbsp; 🐍 Python Programming — CodeChef
+## 🏅 Certifications
 
-## Connect
+☕ **Java Programming** — CodeChef &nbsp;·&nbsp; 🐍 **Python Programming** — CodeChef
+
+<!-- ===== DIVIDER ===== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./divider-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./divider-light.svg">
+  <img alt="" src="./divider-light.svg" width="100%">
+</picture>
+
+<!-- ===== CONNECT ===== -->
+
+## 🤝 Connect
 
 <div align="center">
 
@@ -97,6 +156,15 @@ Enterprise Java with Spring MVC, Hibernate and MySQL; MVC architecture and datab
 &nbsp;
 <a href="mailto:aakashpatil93700@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Email" /></a>
 
-<sub>Keep learning · Keep building · Keep growing</sub>
+<br/><br/>
+
+<img src="./open-to-work.svg" alt="Open to opportunities" width="220" />
 
 </div>
+
+<!-- ===== FOOTER ===== -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0A101F,50:1B2A4A,100:0A101F&height=120&section=footer&animation=twinkling">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:DDE7F5,100:FFFFFF&height=120&section=footer&animation=fadeIn" width="100%" alt="">
+</picture>

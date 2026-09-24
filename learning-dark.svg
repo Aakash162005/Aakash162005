@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 48" width="800" height="48">
+<defs>
+  <style>
+    @media (prefers-reduced-motion: reduce) {
+      .bar-fill, .marquee-text { animation: none !important; }
+    }
+    @keyframes progress {
+      0%   { width: 0; }
+      50%  { width: 140; }
+      100% { width: 0; }
+    }
+  </style>
+  <linearGradient id="lbg" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#0F172A"/>
+    <stop offset="1" stop-color="#1B2A4A"/>
+  </linearGradient>
+  <linearGradient id="lbar" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22D3EE"/>
+    <stop offset="1" stop-color="#A78BFA"/>
+  </linearGradient>
+  <clipPath id="roundClip"><rect x="0" y="0" width="800" height="48" rx="12"/></clipPath>
+</defs>
+<rect width="800" height="48" rx="12" fill="url(#lbg)" clip-path="url(#roundClip)"/>
+
+<!-- Sliding progress bar -->
+<rect x="0" y="44" width="800" height="4" fill="#1B2A4A"/>
+<rect x="0" y="44" width="0" height="4" fill="url(#lbar)">
+  <animate attributeName="width" values="0;800;0" dur="6s" repeatCount="indefinite"/>
+</rect>
+
+<!-- Marquee text -->
+<g font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#94A3B8">
+  <text y="29">
+    <animateTransform attributeName="transform" type="translate" values="800,0; -900,0" dur="12s" repeatCount="indefinite"/>
+    <tspan fill="#22D3EE" font-weight="600">NOW LEARNING  ·  </tspan>
+    <tspan>Spring Cloud</tspan>
+    <tspan fill="#475569">  ▸  </tspan>
+    <tspan>Docker</tspan>
+    <tspan fill="#475569">  ▸  </tspan>
+    <tspan>Apache Kafka</tspan>
+    <tspan fill="#475569">  ▸  </tspan>
+    <tspan>Keycloak</tspan>
+    <tspan fill="#475569">  ▸  </tspan>
+    <tspan>AI Integration</tspan>
+    <tspan fill="#475569">  ▸  </tspan>
+    <tspan fill="#22D3EE" font-weight="600">NOW LEARNING  ·  </tspan>
+    <tspan>Spring Cloud</tspan>
+    <tspan fill="#475569">  ▸  </tspan>
+    <tspan>Docker</tspan>
+    <tspan fill="#475569">  ▸  </tspan>
+    <tspan>Apache Kafka</tspan>
+    <tspan fill="#475569">  ▸  </tspan>
+    <tspan>Keycloak</tspan>
+    <tspan fill="#475569">  ▸  </tspan>
+    <tspan>AI Integration</tspan>
+  </text>
+</g>
+</svg>
