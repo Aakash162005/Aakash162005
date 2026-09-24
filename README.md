@@ -60,12 +60,6 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Aakash162005&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=Aakash162005&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8" alt="Streak" />
-</picture>
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Aakash162005&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" />
@@ -110,14 +104,70 @@
 
 ## 🚀 Projects
 
-| Project | Description | Tech |
+<!-- Flagship -->
+
+<table>
+<tr><td>
+
+### 🌾 AgroConnect &nbsp;·&nbsp; <i>Flagship</i>
+
+> **AI-powered agricultural marketplace** connecting farmers and agri-vendors at scale
+
+- 🤖 Gemini AI for smart crop, fertilizer & pesticide recommendations
+- 🔐 Keycloak + JWT dual-layer authentication & role-based access
+- 📡 Event-driven architecture with Apache Kafka for real-time order processing
+- 🐳 Fully containerised with Docker; Spring Cloud for service discovery & config
+
+`Spring Boot` `React` `PostgreSQL` `Kafka` `Docker` `Keycloak` `Spring Cloud` `Gemini AI`
+
+</td></tr>
+</table>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Aakash162005&repo=AgroConnect&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash162005&repo=AgroConnect&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF" alt="AgroConnect" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Aakash162005&repo=SkillBridge&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash162005&repo=SkillBridge&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF" alt="SkillBridge" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Aakash162005&repo=Alumni-Network-Platform&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash162005&repo=Alumni-Network-Platform&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF" alt="Alumni Network" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Aakash162005&repo=KisanMate&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash162005&repo=KisanMate&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF" alt="KisanMate" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Aakash162005&repo=OfferBazaar&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash162005&repo=OfferBazaar&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF" alt="OfferBazaar" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Aakash162005&repo=Apna-Bank&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aakash162005&repo=Apna-Bank&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF" alt="Apna Bank" />
+</picture>
+
+</div>
+
+<details>
+<summary><b>📋 Project Details</b></summary>
+<br/>
+
+| Project | What it does | Stack |
 |---------|-------------|------|
-| 🌾 **AgroConnect** *(flagship)* | AI-powered agri marketplace — Gemini-based crop & fertilizer recommendations, Keycloak + JWT auth, event-driven architecture | Spring Boot · React · PostgreSQL · Kafka · Docker · Keycloak · Spring Cloud · Gemini AI |
-| 🎯 **SkillBridge** | AI resume analyzer with personalized skill recommendations and career paths | React · Spring Boot · MySQL · AI APIs |
-| 🎓 **Alumni Network** | Student-alumni platform with role-based auth, jobs board, and admin dashboard | Spring Boot · JWT · MySQL · JS |
-| 🌿 **KisanMate** | Farmer platform for tools, seeds, weather info, and subsidy awareness | Java · Spring MVC · SQL |
-| 🛍️ **OfferBazaar** | Vendor offers aggregator with engagement dashboards; ~40% improved vendor visibility | Servlets · SQL |
-| 🏦 **Apna Bank** | Banking system with full CRUD for customers, accounts, and transactions | Servlets · MySQL |
+| 🎯 **SkillBridge** | AI resume analyzer — personalized skill recommendations and career paths | React · Spring Boot · MySQL · AI APIs |
+| 🎓 **Alumni Network** | Student-alumni networking — role-based auth, jobs board, admin dashboard | Spring Boot · JWT · MySQL · JS |
+| 🌿 **KisanMate** | Farmer platform — tools, seeds, weather info, subsidy awareness | Java · Spring MVC · SQL |
+| 🛍️ **OfferBazaar** | Vendor offers aggregator — engagement dashboards; ~40% improved vendor visibility | Servlets · SQL |
+| 🏦 **Apna Bank** | Banking system — full CRUD for customers, accounts, transactions | Servlets · MySQL |
+
+</details>
+
 
 <!-- ===== EXPERIENCE ===== -->
 
